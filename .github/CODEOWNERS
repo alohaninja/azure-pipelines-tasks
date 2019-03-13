@@ -7,6 +7,8 @@ Tasks/ANTV1/*   @madhurig
 
 Tasks/AppCenterDistributeV1/*   @DennisPan
 
+Tasks/AppCenterDistributeV2/*   @DennisPan
+
 Tasks/AppCenterTestV1/*   @owenniblock
 
 Tasks/ArchiveFilesV2/*  @bryanmacfarlane
@@ -114,6 +116,8 @@ Tasks/DownloadPackageV0/*       @zackrun
 Tasks/DownloadPipelineArtifactV0/*      @mihaif
 
 Tasks/DownloadSecureFileV1/*    @madhurig
+
+Tasks/DuffleInstallerV0/*   @bansalaseem     @vithati
 
 Tasks/ExtractFilesV1/*      @bryanmacfarlane
 
